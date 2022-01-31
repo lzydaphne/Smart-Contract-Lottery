@@ -1,0 +1,7 @@
+{
+  "solidity.compileUsingRemoteVersion": "v0.6.6+commit.6c089d02",
+  "solidity.defaultCompiler": "localNodeModule"
+  "solidity.remappings": [
+    "@linktoken=C:/Users/daphn/.brownie/packages/smartcontractkit/LinkToken@deployed"
+  ]
+}
